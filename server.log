@@ -1,0 +1,10 @@
+INFO:     127.0.0.1:52815 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58648 - "GET / HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:58648 - "GET /assets/index-OWWh3Yv6.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:50873 - "GET /assets/index-Of9Z9kN2.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:50873 - "GET /api/notices?limit=2000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50873 - "GET /api/forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50873 - "GET /api/community/posts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50873 - "GET /api/calendar?month=2026-10 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50873 - "GET /api/calendar?month=2026-10 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60454 - "GET /api/notices/sdu-youth-ac780436a9988ce5 HTTP/1.1" 200 OK
